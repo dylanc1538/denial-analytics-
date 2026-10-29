@@ -1,0 +1,91 @@
+denial_id,service_month,specialty,surgeon_code,cpt_codes,modifier,payer,carc_code,group_code,denial_reason,billed_amount,action_taken,auth_on_file,outcome,paid_amount,days_to_resolve
+D001,2026-01,Spine,SP-A,63030,,Aetna,CO-97,CO,Bundled / included in another service,9980,Reconsideration,Y,Paid,5130,30
+D002,2026-01,Spine,SP-B,63047,XS,Aetna,CO-97,CO,Bundled / included in another service,9500,Reconsideration,Y,Upheld,0,47
+D003,2026-01,Sports Med,SM-B,29888+27427,,Aetna,CO-97,CO,Bundled / included in another service,7150,Reconsideration,Y,Upheld,0,41
+D004,2026-01,Spine,SP-C,22630+22840+22853,,Cigna,CO-16,CO,Missing or invalid claim information,55200,Corrected claim,Y,Paid,35730,66
+D005,2026-01,Sports Med,SM-A,29881,,Medicare,CO-50,CO,Not medically necessary,4890,Appeal,Y,Paid,2190,52
+D006,2026-01,Sports Med,SM-B,29827+29826,,UnitedHealthcare,CO-197,CO,Precert / authorization absent,8330,Appeal,N,Upheld,0,81
+D007,2026-01,Spine,SP-B,63030,,UnitedHealthcare,CO-197,CO,Precert / authorization absent,7360,Appeal,N,Paid,4610,51
+D008,2026-01,Sports Med,SM-A,29888+27427,,Empire BCBS,CO-16,CO,Missing or invalid claim information,6770,Corrected claim,Y,Upheld,0,22
+D009,2026-02,Spine,SP-A,22551+22845+22853,,Empire BCBS,CO-50,CO,Not medically necessary,48410,Appeal,Y,Upheld,0,89
+D010,2026-02,Sports Med,SM-B,29888+27427,,UnitedHealthcare,CO-97,CO,Bundled / included in another service,8310,Reconsideration,Y,Upheld,0,89
+D011,2026-02,Spine,SP-C,22551+22845+22853,,Medicare,CO-16,CO,Missing or invalid claim information,33820,Corrected claim,Y,Upheld,0,89
+D012,2026-02,Sports Med,SM-A,29888+27427,,UnitedHealthcare,CO-197,CO,Precert / authorization absent,8520,Appeal,Y,Paid,4180,35
+D013,2026-02,Spine,SP-B,22551+22845+22853,,Aetna,CO-197,CO,Precert / authorization absent,40550,Appeal,N,Paid,27300,42
+D014,2026-02,Spine,SP-A,63047,,Empire BCBS,CO-50,CO,Not medically necessary,13230,Appeal,Y,Upheld,0,46
+D015,2026-02,Spine,SP-C,63047,,UnitedHealthcare,CO-197,CO,Precert / authorization absent,15570,Appeal,N,Upheld,0,42
+D016,2026-02,Spine,SP-C,63047,,Cigna,CO-197,CO,Precert / authorization absent,9650,Appeal,Y,Paid,4430,65
+D017,2026-02,Sports Med,SM-A,29888+27427,,Aetna,CO-50,CO,Not medically necessary,7280,Appeal,Y,Paid,3710,35
+D018,2026-02,Spine,SP-B,22630+22840+22853,,NYSHIP,CO-97,CO,Bundled / included in another service,69580,Reconsideration,Y,Upheld,0,68
+D019,2026-02,Spine,SP-C,63030,,NYSHIP,CO-50,CO,Not medically necessary,9850,Appeal,Y,Upheld,0,63
+D020,2026-02,Spine,SP-A,22630+22840+22853,,UnitedHealthcare,CO-97,CO,Bundled / included in another service,43160,Reconsideration,Y,Upheld,0,30
+D021,2026-03,Spine,SP-B,22630+22840+22853,,NYSHIP,CO-197,CO,Precert / authorization absent,50920,Appeal,N,Paid,22540,16
+D022,2026-03,Sports Med,SM-B,29880,,Empire BCBS,CO-50,CO,Not medically necessary,5170,Appeal,Y,Upheld,0,48
+D023,2026-03,Sports Med,SM-A,29827+29826,,Aetna,CO-4,CO,Modifier inconsistent or missing,11870,Corrected claim,Y,Upheld,0,84
+D024,2026-03,Spine,SP-B,22551+22845+22853,,Empire BCBS,CO-29,CO,Timely filing limit expired,36630,Routed to Denials WQ,Y,Upheld,0,74
+D025,2026-03,Sports Med,SM-A,29880,,Cigna,CO-50,CO,Not medically necessary,6760,Appeal,Y,Paid,2370,38
+D026,2026-03,Sports Med,SM-B,29888+27427,,Aetna,CO-97,CO,Bundled / included in another service,6630,Reconsideration,Y,Upheld,0,25
+D027,2026-03,Spine,SP-B,22551+22845+22853,,Medicare,CO-29,CO,Timely filing limit expired,52040,Routed to Denials WQ,Y,Paid,31630,35
+D028,2026-03,Sports Med,SM-B,29888+27427,,Cigna,CO-50,CO,Not medically necessary,7410,Appeal,Y,Paid,4630,52
+D029,2026-03,Sports Med,SM-A,29888+27427,,NYSHIP,CO-29,CO,Timely filing limit expired,9220,Routed to Denials WQ,Y,Upheld,0,23
+D030,2026-04,Spine,SP-A,63047,,Aetna,CO-97,CO,Bundled / included in another service,15900,Reconsideration,Y,Upheld,0,68
+D031,2026-04,Sports Med,SM-A,29880,,UnitedHealthcare,CO-11,CO,Diagnosis inconsistent with procedure,4860,Corrected claim,Y,Paid,2970,48
+D032,2026-04,Spine,SP-A,22630+22840+22853,,UnitedHealthcare,CO-197,CO,Precert / authorization absent,40910,Appeal,N,Paid,25210,63
+D033,2026-04,Sports Med,SM-B,29827+29826,,Empire BCBS,CO-16,CO,Missing or invalid claim information,9300,Corrected claim,Y,Paid,4470,71
+D034,2026-04,Sports Med,SM-B,29880,,Cigna,CO-197,CO,Precert / authorization absent,6140,Appeal,N,Paid,2710,56
+D035,2026-04,Spine,SP-B,63030,,Aetna,CO-97,CO,Bundled / included in another service,10060,Reconsideration,Y,Paid,6640,50
+D036,2026-04,Sports Med,SM-A,29888+27427,,Cigna,CO-50,CO,Not medically necessary,9180,Appeal,Y,Upheld,0,33
+D037,2026-04,Sports Med,SM-A,29888+27427,,Aetna,CO-50,CO,Not medically necessary,7670,Appeal,Y,Upheld,0,71
+D038,2026-04,Spine,SP-C,22551+22845+22853,,Aetna,CO-197,CO,Precert / authorization absent,34790,Appeal,Y,Paid,19360,62
+D039,2026-04,Spine,SP-A,22551+22845+22853,,Cigna,CO-50,CO,Not medically necessary,49390,Appeal,Y,Paid,32990,33
+D040,2026-04,Spine,SP-B,63030,,Cigna,CO-50,CO,Not medically necessary,9250,Appeal,Y,Upheld,0,57
+D041,2026-04,Sports Med,SM-A,29881,XS,Aetna,CO-97,CO,Bundled / included in another service,6070,Reconsideration,Y,Paid,2780,61
+D042,2026-05,Sports Med,SM-A,29827+29826,,Empire BCBS,CO-197,CO,Precert / authorization absent,9100,Appeal,Y,Upheld,0,29
+D043,2026-05,Sports Med,SM-B,29827+29826,,UnitedHealthcare,CO-197,CO,Precert / authorization absent,8490,Appeal,Y,Upheld,0,31
+D044,2026-05,Sports Med,SM-A,29880,,UnitedHealthcare,CO-16,CO,Missing or invalid claim information,4890,Corrected claim,Y,Paid,3370,51
+D045,2026-05,Sports Med,SM-B,29888+27427,,Cigna,CO-11,CO,Diagnosis inconsistent with procedure,6780,Corrected claim,Y,Paid,3030,14
+D046,2026-05,Spine,SP-A,63047,,Aetna,CO-50,CO,Not medically necessary,12050,Appeal,Y,Upheld,0,34
+D047,2026-05,Sports Med,SM-B,29880,,UnitedHealthcare,CO-197,CO,Precert / authorization absent,6240,Appeal,N,Paid,3640,38
+D048,2026-05,Sports Med,SM-B,29888+27427,,Aetna,CO-29,CO,Timely filing limit expired,7220,Routed to Denials WQ,Y,Upheld,0,50
+D049,2026-05,Spine,SP-A,22551+22845+22853,,NYSHIP,CO-16,CO,Missing or invalid claim information,45950,Corrected claim,Y,Upheld,0,33
+D050,2026-05,Sports Med,SM-A,29880,,Aetna,CO-4,CO,Modifier inconsistent or missing,6860,Corrected claim,Y,Paid,3590,19
+D051,2026-05,Sports Med,SM-B,29880,,Aetna,CO-4,CO,Modifier inconsistent or missing,5800,Corrected claim,Y,Paid,2590,51
+D052,2026-06,Spine,SP-A,63047,XS,Aetna,CO-97,CO,Bundled / included in another service,11810,Reconsideration,Y,Upheld,0,60
+D053,2026-06,Spine,SP-B,63047,,UnitedHealthcare,CO-97,CO,Bundled / included in another service,12200,Reconsideration,Y,Upheld,0,21
+D054,2026-06,Spine,SP-A,22551+22845+22853,,Medicare,CO-16,CO,Missing or invalid claim information,40950,Corrected claim,Y,Paid,18670,65
+D055,2026-06,Spine,SP-B,63030,,Empire BCBS,CO-50,CO,Not medically necessary,9760,Appeal,Y,Paid,3450,18
+D056,2026-06,Spine,SP-B,63047,,Empire BCBS,CO-16,CO,Missing or invalid claim information,14460,Corrected claim,Y,Upheld,0,72
+D057,2026-06,Sports Med,SM-A,29827+29826,,Aetna,CO-16,CO,Missing or invalid claim information,10300,Corrected claim,Y,Paid,4050,71
+D058,2026-06,Sports Med,SM-A,29880,,Cigna,CO-16,CO,Missing or invalid claim information,6480,Corrected claim,Y,Upheld,0,41
+D059,2026-06,Spine,SP-C,22551+22845+22853,,NYSHIP,CO-97,CO,Bundled / included in another service,35780,Reconsideration,Y,Upheld,0,28
+D060,2026-06,Spine,SP-B,22630+22840+22853,,Empire BCBS,CO-4,CO,Modifier inconsistent or missing,63640,Corrected claim,Y,Upheld,0,45
+D061,2026-06,Sports Med,SM-A,29827+29826,,NYSHIP,CO-16,CO,Missing or invalid claim information,10660,Corrected claim,Y,Paid,4670,21
+D062,2026-07,Spine,SP-B,22630+22840+22853,,Cigna,CO-50,CO,Not medically necessary,63800,Appeal,Y,Paid,31770,31
+D063,2026-07,Spine,SP-B,22630+22840+22853,,UnitedHealthcare,CO-16,CO,Missing or invalid claim information,51010,Corrected claim,Y,Paid,26260,26
+D064,2026-07,Sports Med,SM-B,29888+27427,,Aetna,CO-97,CO,Bundled / included in another service,9280,Reconsideration,Y,Upheld,0,45
+D065,2026-07,Spine,SP-B,63030,,Aetna,CO-29,CO,Timely filing limit expired,7250,Routed to Denials WQ,Y,Upheld,0,35
+D066,2026-07,Sports Med,SM-B,29880,,Cigna,CO-50,CO,Not medically necessary,5630,Appeal,Y,Upheld,0,55
+D067,2026-07,Sports Med,SM-A,29888+27427,,UnitedHealthcare,CO-197,CO,Precert / authorization absent,7120,Appeal,N,Upheld,0,22
+D068,2026-07,Sports Med,SM-A,29880,,Aetna,CO-97,CO,Bundled / included in another service,6880,Reconsideration,Y,Upheld,0,89
+D069,2026-07,Spine,SP-C,63047,,Empire BCBS,CO-11,CO,Diagnosis inconsistent with procedure,14840,Corrected claim,Y,Paid,9080,17
+D070,2026-07,Spine,SP-B,22551+22845+22853,,Aetna,CO-4,CO,Modifier inconsistent or missing,32550,Corrected claim,Y,Upheld,0,35
+D071,2026-07,Spine,SP-C,22630+22840+22853,XS,Cigna,CO-97,CO,Bundled / included in another service,70220,Reconsideration,Y,Paid,40810,24
+D072,2026-07,Sports Med,SM-A,29880,,NYSHIP,CO-197,CO,Precert / authorization absent,5330,Appeal,Y,Upheld,0,62
+D073,2026-07,Sports Med,SM-A,29888+27427,,UnitedHealthcare,CO-29,CO,Timely filing limit expired,7860,Routed to Denials WQ,Y,Upheld,0,61
+D074,2026-08,Sports Med,SM-B,29888+27427,,Aetna,CO-11,CO,Diagnosis inconsistent with procedure,8160,Corrected claim,Y,Upheld,0,66
+D075,2026-08,Sports Med,SM-B,29888+27427,,NYSHIP,CO-29,CO,Timely filing limit expired,8110,Routed to Denials WQ,Y,Upheld,0,36
+D076,2026-08,Spine,SP-C,22551+22845+22853,,UnitedHealthcare,CO-16,CO,Missing or invalid claim information,35570,Corrected claim,Y,Paid,17410,31
+D077,2026-08,Spine,SP-B,63047,,Medicare,CO-4,CO,Modifier inconsistent or missing,15650,Corrected claim,Y,Upheld,0,84
+D078,2026-08,Spine,SP-A,63030,,UnitedHealthcare,CO-197,CO,Precert / authorization absent,10540,Appeal,N,Upheld,0,54
+D079,2026-08,Sports Med,SM-A,29888+27427,,Cigna,CO-97,CO,Bundled / included in another service,8580,Reconsideration,Y,Paid,4420,47
+D080,2026-09,Spine,SP-A,63047,,Empire BCBS,CO-97,CO,Bundled / included in another service,14380,Reconsideration,Y,Open,,
+D081,2026-09,Spine,SP-A,22630+22840+22853,,Cigna,CO-50,CO,Not medically necessary,69590,Appeal,Y,Upheld,0,59
+D082,2026-09,Sports Med,SM-A,29888+27427,,Aetna,CO-97,CO,Bundled / included in another service,8160,Reconsideration,Y,Open,,
+D083,2026-09,Spine,SP-B,63030,,Empire BCBS,CO-11,CO,Diagnosis inconsistent with procedure,8210,Corrected claim,Y,Paid,4040,20
+D084,2026-09,Spine,SP-A,22630+22840+22853,,Aetna,CO-29,CO,Timely filing limit expired,70950,Routed to Denials WQ,Y,Upheld,0,50
+D085,2026-09,Spine,SP-A,63030,,Empire BCBS,CO-97,CO,Bundled / included in another service,9510,Reconsideration,Y,Open,,
+D086,2026-09,Spine,SP-A,22630+22840+22853,XS,Medicare,CO-97,CO,Bundled / included in another service,60960,Reconsideration,Y,Open,,
+D087,2026-09,Spine,SP-A,22630+22840+22853,,Empire BCBS,CO-16,CO,Missing or invalid claim information,69920,Corrected claim,Y,Open,,
+D088,2026-09,Sports Med,SM-A,29888+27427,,Empire BCBS,CO-50,CO,Not medically necessary,8640,Appeal,Y,Open,,
+D089,2026-09,Sports Med,SM-A,29827+29826,,Cigna,CO-11,CO,Diagnosis inconsistent with procedure,8950,Corrected claim,Y,Open,,
+D090,2026-09,Sports Med,SM-B,29888+27427,,UnitedHealthcare,CO-97,CO,Bundled / included in another service,7580,Reconsideration,Y,Upheld,0,36
